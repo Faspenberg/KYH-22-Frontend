@@ -1,0 +1,14 @@
+div {
+ color: orangered;   
+ background-color: blue;
+}
+
+.bg-green{
+    background-color: black;
+     color: pink;
+}
+
+#div-1 {
+    font-weight: bold;
+    color: greenyellow;
+}
